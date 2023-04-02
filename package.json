@@ -3,6 +3,7 @@
   "version": "0.5.2",
   "description": "react-redux-modal is a React modal implemented with Redux",
   "main": "lib/index.js",
+  "module": "lib/index.js",
   "jsnext:main": "./src/index.js",
   "scripts": {
     "start": "better-npm-run dev-server",
